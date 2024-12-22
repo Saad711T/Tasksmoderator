@@ -1,4 +1,4 @@
-class Task {
+public class Task {
     private String name;
     private String dueDate;
     private boolean isCompleted;
@@ -19,6 +19,8 @@ class Task {
     public void setCompleted(boolean completed) {
         isCompleted = completed;
     }
+    
+    @Override
     public String toString() {
         return name + " (Due: " + dueDate + ") - " + (isCompleted ? "Completed" : "Incomplete");
     }
