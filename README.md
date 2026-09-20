@@ -1,4 +1,5 @@
-# المشروع التالي هو مشروع مبني بلغة جافا بالكامل
+# TasksModerator
+المشروع التالي هو مشروع مبني بلغة جافا بالكامل
 ## المشروع عبارة عن مدير مهام مصغر في لغة جافا يقوم بالمهام التالية :
 
 - إضافة مهمة
@@ -16,3 +17,4 @@
 For See project : [Tasksmoderator](https://github.com/Saad711T/Tasksmoderator/blob/main/Tasksmoderator.java) 
 
 # جميع الحقوق محفوظة للمطور : Saad The Legend
+19 Sep 2024
